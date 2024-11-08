@@ -26,6 +26,7 @@ body {
 #palo-abajo {
   font-size: 80px;
   margin-right: 10px;
+  transform: rotate(180deg);
 }
 #card-number {
   font-size: 200px;
